@@ -1,8 +1,8 @@
 HOME_DIR = '/home/students/FinallyProject/'
 
-BOT_TOKEN_PATH = f'{HOME_DIR}creds/bot_token'
-FOLDER_ID_PATH = f'{HOME_DIR}creds/folder_id'
-IAM_TOKEN_PATH = f'{HOME_DIR}creds/iam_token'
+BOT_TOKEN_PATH = f'{HOME_DIR}creds/bot_token.txt'
+FOLDER_ID_PATH = f'{HOME_DIR}creds/folder_id.txt'
+IAM_TOKEN_PATH = f'{HOME_DIR}creds/iam_token.txt'
 
 MAX_USERS = 10  # максимальное кол-во пользователей
 MAX_GPT_TOKENS = 120  # максимальное кол-во токенов в ответе GPT
