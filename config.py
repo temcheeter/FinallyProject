@@ -1,4 +1,4 @@
-HOME_DIR = '/home/students/FinallyProject/'
+HOME_DIR = '/home/student/FinallyProject/'
 
 BOT_TOKEN_PATH = f'{HOME_DIR}creds/bot_token.txt'
 FOLDER_ID_PATH = f'{HOME_DIR}creds/folder_id.txt'
